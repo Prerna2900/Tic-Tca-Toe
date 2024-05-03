@@ -1,2 +1,2 @@
 # Tic-Tca-Toe
-Tic-Tca-Toe is a game . Created using HHTML , CSS and JAVASCRIPT.
+### Tic-Tac-Toe is a game created using HTML , CSS , JAVASCRIPT.
